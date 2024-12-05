@@ -1,0 +1,60 @@
+{
+  "quizTitle": "Jordan Peterson and Lex Fridman: Philosophical Ideas Quiz",
+  "questions": [
+    {
+      "question": "According to Peterson, how did Nietzsche view the 'death of God'?",
+      "choices": [
+        "As a triumphant liberation from religious constraints",
+        "As a warning about the dire consequences of losing a unifying social ethos",
+        "As a call for complete moral relativism",
+        "As an opportunity to create entirely new religious systems"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peterson emphasizes that Nietzsche saw the 'death of God' as a serious warning about the potential social and psychological consequences of losing a fundamental unifying value system."
+    },
+    {
+      "question": "How does Peterson characterize Nietzsche's concept of the Übermensch?",
+      "choices": [
+        "As a blueprint for racial superiority",
+        "As a call for individuals to create their own values completely",
+        "As a metaphor for human creative potential",
+        "As a critique of existing moral systems"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peterson criticizes Nietzsche's idea that humans should construct their own values, arguing that there's an implicit moral order we must align with rather than create from scratch."
+    },
+    {
+      "question": "What does Peterson suggest is the fundamental problem with ideologies like communism?",
+      "choices": [
+        "They are too complex to implement",
+        "They ignore individual differences",
+        "They assume humans can be completely reshaped from scratch",
+        "They lack economic feasibility"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Peterson critiques communist and similar ideologies for presuming that humans are infinitely malleable and can be reshaped according to rational presuppositions."
+    },
+    {
+      "question": "How does Peterson describe the battle between good and evil in Western religious thought?",
+      "choices": [
+        "As a global conflict between nations",
+        "As an external struggle against evil people",
+        "As an internal battle within each individual's heart",
+        "As a predetermined cosmic battle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Peterson emphasizes that in high-order Western religious conceptualizations, the battle between good and evil is fundamentally an internal drama played out within each individual's soul."
+    },
+    {
+      "question": "What metaphor does Peterson use to describe the relationship between rules and freedom?",
+      "choices": [
+        "Rules are always restrictive and limiting",
+        "Freedom is completely independent of rules",
+        "Adhering to rules can paradoxically increase the realm of freedom",
+        "Rules are irrelevant to human potential"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Peterson argues that in systems like games or conversations, adhering to certain rules can actually increase the space of potential actions and creativity."
+    }
+  ]
+}
